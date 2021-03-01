@@ -1,0 +1,83 @@
+@charset "UTF-8";
+
+
+@media screen and (max-width: 768px) {
+
+
+    /*--------------全体構造-----------------*/
+
+h1 {
+    font-size: 18px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 16px;
+}
+
+p,a {
+    font-size: 16px;
+
+
+.inner {
+    padding: 50px 30px;
+}
+
+
+/*------HEADER-------------------------------------*/
+
+
+header ul {
+    display: none;
+}
+
+
+
+/*------メインビジュアル---------*/
+
+
+.mainvisual h2 {
+    font-size: 32px;
+    
+}
+
+
+/*--------------WORKS------------*/
+
+.works-card-wrapper {
+    display: block;
+}
+
+.works-card-wrapper:last-child {
+    margin-top: 0;
+}
+
+.works-card {
+    width: 100%;
+    margin-top: 20px;
+}
+
+
+
+/*-------------CONTACT-----------*/
+
+
+input {
+    width: 100%;
+}
+
+textarea {
+    width: 100%;
+}
+
+
+/*-------------------フッター-------------*/
+
+footer p {
+    padding: 10px 0;
+}
+
+}
