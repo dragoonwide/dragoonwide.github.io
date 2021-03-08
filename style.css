@@ -100,7 +100,7 @@ img {
 }
 
 #home {
-    background-image: url(https://github.com/dragoonwide/dragoonwide.github.io/blob/main/main-bg.jpg?raw=true);
+    background-image: url(file:///Users/takahiro/Desktop/WCBCafe/images/main-bg.jpg);
     background-blend-mode: luminosity;
     min-height: 100vh;
 }
